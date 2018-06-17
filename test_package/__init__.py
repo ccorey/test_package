@@ -1,2 +1,2 @@
-name = "test package!"
-
+def test(x):
+	return x * x
