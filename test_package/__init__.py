@@ -1,3 +1,1 @@
-
-def test(x):
-	return x * x
+import test_module
